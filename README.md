@@ -24,3 +24,16 @@ The checkout system interface (shown in java):
   co.total();
 ```
 
+Example scenarios
+-----------------
+
+SKUs Scanned: atv, atv, atv, vga
+Total expected: $249.00
+
+SKUs Scanned: atv, ipd, ipd, atv, ipd, ipd, ipd
+Total expected: $2718.95
+
+SKUs Scanned: mbp, vga, ipd
+Total expected: $1949.98
+
+
